@@ -25,7 +25,7 @@ if __name__ == "__main__":
     password = ""
     recipient_email=""
     subject = "We reconfigured our IMAP server"
-    message = "Hi Wisdom\nWe have reconfigured the IMAP, hope you receive this email this time. Please let us know.\nMany thanks"
+    message = "Hi Sherlock\nWe have reconfigured the IMAP, hope you receive this email this time. Please let us know.\nMany thanks"
     smtp_port = 587
     sender_name=""
 
